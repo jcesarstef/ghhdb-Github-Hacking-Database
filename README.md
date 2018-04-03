@@ -15,3 +15,4 @@ Dork | Description
 Dork | Description
 --------- | ------
 "-----BEGIN RSA PRIVATE KEY-----"|RSA Private key 
+"-----BEGIN ENCRYPTED PRIVATE KEY-----"|PEM file Private Key
