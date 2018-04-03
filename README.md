@@ -7,7 +7,7 @@ Dork | Description
 --------- | ------
 "api_hash" "api_id" "user_phone"|Telegram APP Configuration Keys (https://my.telegram.org/apps)
 "aws_access_key_id" "aws_secret_access_key"|AWS API Keys
-"cloudflare_global_api_key" "CLOUDFLARE_EMAIL"|Cloudflare API Key and Email
+"CLOUDFLARE_API_KEY" "CLOUDFLARE_EMAIL"|Cloudflare API Key and Email
 
 ### Certificates
 
