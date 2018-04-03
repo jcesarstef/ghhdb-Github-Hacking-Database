@@ -6,3 +6,4 @@ Github Hacking Database - A collection of Github's Dorks to search for Confident
 Dork | Description
 --------- | ------
 "api_hash" "api_id" "user_phone"|Telegram APP Configuration Keys (https://my.telegram.org/apps)
+"aws_access_key_id" "aws_secret_access_key"|AWS API Keys
