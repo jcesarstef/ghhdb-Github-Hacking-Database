@@ -9,7 +9,8 @@ Dork | Description
 "aws_access_key_id" "aws_secret_access_key"|AWS API Keys
 "cloudflare_api_key" "cloudflare_email"|Cloudflare API Key and Email
 "Client ID" "client secret" "verification token"|Slack bot API Key
-
+filename:passwords.txt|Passwords saved in text file
+filename:passwords.doc|Password saved in doc file (See also .docx extesion)
 ### Certificates
 
 Dork | Description
