@@ -11,6 +11,8 @@ Dork | Description
 "Client ID" "client secret" "verification token"|Slack bot API Key
 filename:passwords.txt|Passwords saved in text file
 filename:passwords.doc|Passwords saved in doc file (See also .docx extesion)
+"app\.secret_key" extension=py|flask-login API Key
+
 ### Certificates
 
 Dork | Description
