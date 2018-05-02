@@ -3,7 +3,7 @@ Github Hacking Database - A collection of Github's Dorks to search for Confident
 
 ### API Keys
 
-Dork | Description
+Search | Description
 --------- | ------
 "api_hash" "api_id" "user_phone"|Telegram APP Configuration Keys (https://my.telegram.org/apps)
 "aws_access_key_id" "aws_secret_access_key"|AWS API Keys
@@ -15,7 +15,14 @@ filename:passwords.doc|Passwords saved in doc file (See also .docx extesion)
 
 ### Certificates
 
-Dork | Description
+Search | Description
 --------- | ------
 "-----BEGIN RSA PRIVATE KEY-----"|RSA Private key 
 "-----BEGIN ENCRYPTED PRIVATE KEY-----"|PEM file Private Key
+
+
+### Full Source Code Leak/Reverse Engineering
+
+Search | Description
+--------- | ------
+"package com.whatsapp" extension:java|Look for code leak or reverse engineer of an Android Application.
