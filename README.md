@@ -17,11 +17,12 @@ filename:passwords.doc|Passwords saved in doc file (See also .docx extesion)
 
 Search | Description
 --------- | ------
-"-----BEGIN RSA PRIVATE KEY-----"|RSA Private key 
+"-----BEGIN RSA PRIVATE KEY-----"|RSA Private Key 
+"-----BEGIN PRIVATE KEY-----"|Unencrypted PKCS#8 and base64 encoded Private Key
 "-----BEGIN ENCRYPTED PRIVATE KEY-----"|PEM file Private Key
 
 
-### Full Source Code Leak/Reverse Engineering
+### Source Code Leak/Reverse Engineering
 
 Search | Description
 --------- | ------
