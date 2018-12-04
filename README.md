@@ -21,7 +21,7 @@ Search | Description
 "-----BEGIN RSA PRIVATE KEY-----"|RSA Private Key 
 "-----BEGIN PRIVATE KEY-----"|Unencrypted PKCS#8 and base64 encoded Private Key
 "-----BEGIN ENCRYPTED PRIVATE KEY-----"|PEM file Private Key
-
+""-----BEGIN CERTIFICATE-----" extension:pem"| PEM encoded SSL certificate
 
 ### Source Code Leak/Reverse Engineering
 
