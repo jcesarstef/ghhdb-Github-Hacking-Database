@@ -10,7 +10,7 @@ Search | Description
 "cloudflare_api_key" "cloudflare_email"|Cloudflare API Key and Email
 "Client ID" "client secret" "verification token"|Slack bot API Key
 "xoxp-"|Slack API Key
-"https://hooks.slack.com/services/"|Slack Incoming WebHook API Url
+"https://hooks.slack.com/"|Slack Incoming WebHook API Url
 filename:passwords.txt|Passwords saved in text file
 filename:passwords.doc|Passwords saved in doc file (See also .docx extesion)
 "app.secret_key" extension=py|flask-login API Key
