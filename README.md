@@ -6,15 +6,17 @@ Github Hacking Database - A collection of Github's Dorks to search for Confident
 Search | Description
 --------- | ------
 "api_hash" "api_id" "user_phone"|Telegram APP Configuration Keys (https://my.telegram.org/apps)
+"https://api.telegram.org/bot"|Telegram API URL with Key
 "aws_access_key_id" "aws_secret_access_key"|AWS API Keys
 "cloudflare_api_key" "cloudflare_email"|Cloudflare API Key and Email
 "Client ID" "client secret" "verification token"|Slack bot API Key
 "xoxp-"|Slack API Key
-"https://hooks.slack.com/"|Slack Incoming WebHook API Url
+"https://hooks.slack.com/"|Slack Incoming WebHook API Url with Key
 filename:passwords.txt|Passwords saved in text file
 filename:passwords.doc|Passwords saved in doc file (See also .docx extesion)
 "app.secret_key" extension=py|flask-login API Key
 "app.config['SECRET_KEY']" extension:py|Flask Secret Key
+"https://api.mailgun.net/v3/"|Mailgun API URL with Key
 
 ### Certificates
 
