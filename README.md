@@ -32,3 +32,10 @@ Search | Description
 Search | Description
 --------- | ------
 "package com.whatsapp" extension:java|Look for code leak or reverse engineer of an Android Application.
+
+
+### Passwords and connections config setting leak
+
+Search | Description
+------ | -----
+app.config['SQLALCHEMY_DATABASE_URI'] | SQLAlchmy Database connection configuration leak
