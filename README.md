@@ -39,3 +39,11 @@ Search | Description
 Search | Description
 ------ | -----
 app.config['SQLALCHEMY_DATABASE_URI'] | SQLAlchmy Database connection configuration leak
+
+
+### 2FA Recovery Codes
+
+Search | Description
+------ | -----
+filename:mega-recoverykey.txt | Mega.nz 2FA Recovery Code
+filename:github-recovery-codes.txt| Github 2FA Recovery Code
